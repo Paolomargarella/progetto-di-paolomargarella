@@ -1,0 +1,112 @@
+body{
+  background-image: url(file:///Users/paolom/Desktop/progettopaolomargarella.html/background.jpg);
+  background-size: 1500px;
+  margin-top: 60px;
+  margin-left: 300px;
+}
+.quadrato{
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 700px;
+  border-radius: 10px;
+  width:1000px;
+}
+.logo{
+  width: 150px;
+}
+.container{
+ width: 250px;
+ margin: auto;
+ padding: 50px;
+ height: 60px;
+}
+h1 {
+  color: lime;
+  font-size: 17px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.quadrato1{
+  background-color: lime;
+  height: 40px;
+  width: 80%;
+  margin-bottom: 70px;
+  margin-left: 50px;
+}
+.book{
+  width: 40px;
+}
+.Reservation{
+  width: 118px;
+}
+.swich{
+  width: 70px;
+}
+.options{
+  text-align: center;
+  padding: 10px;
+  margin-left: 150px;
+}
+.Scooter1{
+  font-size: 20px;
+  color: white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  margin-left: 50px;
+}
+.Gino22{
+  height: 17px;
+  font-size: 55px;
+  padding-bottom: 60px;
+}
+.Guadalametri{
+  font-size: 13px;
+  height: 20px;
+}
+.Power{
+  background-color: orange;
+  height: 28px;
+  width: 30%;
+  border-radius: 5px;
+}
+.Scooter2{
+  font-size: 20px;
+  color: white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  margin-left: 50px;
+}
+.Mike24{
+height: 17px;
+font-size: 55px;
+padding-bottom: 60px;
+margin-top: 80px;
+}
+.Ricciardoni{
+  font-size: 13px;
+  height: 20px;
+}
+.Power1{
+  background-color: green;
+  height: 28px;
+  width: 60%;
+  border-radius: 5px;
+}
+.Scooter3 {
+font-size: 20px;
+color: white;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+margin-left: 50px;
+}
+.Fede154{
+  height: 17px;
+  font-size: 55px;
+  padding-bottom: 60px;
+  margin-top: 80px;
+}
+.Mentarini{
+  font-size: 13px;
+  height: 20px;
+}
+.Power2{
+  background-color: red;
+  height: 28px;
+  width: 10%;
+  border-radius: 5px;
+}
